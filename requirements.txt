@@ -1,0 +1,4 @@
+lmdb>=0.9
+matplotlib>=2.1
+tensorflow-gpu>=1.12
+tensorpack==0.9.0
